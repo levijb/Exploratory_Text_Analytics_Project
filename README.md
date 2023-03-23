@@ -10,4 +10,4 @@ Present conclusions about patterns observed in the corpus by means of these oper
 
 
 - Data source: https://www.gutenberg.org/browse/scores/top#authors-last1
-- Project idea: Make a collection of books by Dostoyevsky, Nietzsche, Kafka, Leo Tolstoy; compare nd contrast
+- Project idea: Make a collection of books by Dostoyevsky, Nietzsche, Kafka, Leo Tolstoy; compare and contrast
