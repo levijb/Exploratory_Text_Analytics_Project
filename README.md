@@ -9,7 +9,6 @@ Files:
 - ETA_final_report: Final report in notebook format.
 - Data: JSON files with lyrics downlaoded from Genius.
 - Data files: CSV files(some compresesed) of dataframes created throughout the analysis.
--- Note: The TOKENS table is too large to upload to GitHub.
 - Images: Pictures of plots and tables included in the report.
 - Salex_nrc: National Research Council Canada (NRC) sentiment analysis lexicon.
 
