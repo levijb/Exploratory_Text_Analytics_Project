@@ -4,6 +4,9 @@
 This project explores the lyrics of over 100 hip-hop artists from the 1980's to present day. Techniques used include TF-IDF, Principle Component Analysis(PCA) with hierarhcical clustering, Latent Dirichlet Allocation (LDA) topic modeling, word2vec word embedding, and sentiment analysis. 
 
 Files:
+- song_retriever: Jupyter notebook to access the Genius API and download JSON files.
+- ETA_final_project: Notebook for all data exploratation and analysis techniques.
+- ETA_final_report: Final report in notebook format.
 - Data: JSON files with lyrics downlaoded from Genius.
 - Data files: CSV files(some compresesed) of dataframes created throughout the analysis.
 - Images: Pictures of plots and tables included in the report.
