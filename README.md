@@ -10,6 +10,7 @@ Files:
 - Data: JSON files with lyrics downlaoded from Genius.
 - Data files: CSV files(some compresesed) of dataframes created throughout the analysis.
 - Images: Pictures of plots and tables included in the report.
+- Salex_nrc: National Research Council Canada (NRC) sentiment analysis lexicon.
 
   
   
