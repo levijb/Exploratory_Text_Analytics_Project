@@ -6,6 +6,7 @@ This project explores the lyrics of over 100 hip-hop artists from the 1980's to 
 Files:
 - Data: JSON files with lyrics downlaoded from Genius.
 - Data files: CSV files(some compresesed) of dataframes created throughout the analysis.
+- Images: Pictures of plots and tables included in the report.
 
 
 
