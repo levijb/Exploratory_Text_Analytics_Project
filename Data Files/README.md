@@ -1,1 +1,2 @@
-Note: The TOKENS table is too large to upload to GitHub.
+CSV files that were greater than 25 mb are compressed in .zip format
+Note: The compressed TOKENS table is too large to upload to GitHub.
